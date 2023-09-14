@@ -6,7 +6,7 @@ This is a simple JavaScript simulation of a sine graph plotted alongside a movin
 
 ## Demo
 
-You can see the simulation in action by visiting [this link](https://your-demo-link-here.com).
+You can see the simulation in action by visiting [this link]( https://dyanix.github.io/Sine-graph/).
 
 ## Features
 
